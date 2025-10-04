@@ -1,0 +1,4 @@
+- El sentido de las flechas en la herencia estan al revés
+- El tipo de dato que se utiliza en no en todos es correcto, hay algunos que utilizan tipo de dato int
+- Hay atributos que se repiten al ser herencia ya hereda algunos atributos
+- EL sentido en el que esta formado el UML primero es el atributo y luego el tipo de dato
